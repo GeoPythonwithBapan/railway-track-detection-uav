@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/Railway_Track_Detection_.png"
+  <img src="Railway_Track_Detection_.png"
        alt="UAV-Based Railway Track Detection"
        width="100%">
 </p>

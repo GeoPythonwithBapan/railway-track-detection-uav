@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="Railway_Track_Detection_.png"
-       alt="UAV-Based Railway Track Detection"
-       width="100%">
-</p>
 
 <h1 align="center">🚆 Railway Track Detection from UAV Orthomosaic</h1>
 
@@ -24,6 +19,13 @@
 This project presents an end-to-end workflow for extracting railway rails from high-resolution UAV orthomosaic imagery and generating railway track centerlines.
 
 The workflow combines deep learning, computer vision, raster processing, and GIS automation to reduce repetitive manual digitization and produce GIS-ready railway geometries.
+
+
+<p align="center">
+  <img src="Railway_Track_Detection_.png"
+       alt="UAV-Based Railway Track Detection"
+       width="100%">
+</p>
 
 ### Key Features
 

@@ -65,3 +65,14 @@ Python | PyTorch | Rasterio | GeoPandas | Shapely | NumPy | SciPy | scikit-image
 ## Status
 
 Completed end-to-end prototype workflow.
+
+
+
+---
+
+## 👨‍💻 Author
+
+**Bapan Dutta**
+
+GIS | Remote Sensing | UAV | AutoCAD | AutoLISP | GIS/CAD Automation
+
